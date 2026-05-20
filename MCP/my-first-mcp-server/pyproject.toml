@@ -1,0 +1,7 @@
+[project]
+name = "my-first-mcp-server"
+version = "0.1.0"
+description = "This is my first MCP server from Code Basics Tutorial"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
