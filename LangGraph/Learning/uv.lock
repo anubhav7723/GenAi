@@ -1008,6 +1008,7 @@ dependencies = [
     { name = "langchain-google-genai" },
     { name = "langchain-groq" },
     { name = "langgraph" },
+    { name = "langsmith" },
     { name = "notebook" },
     { name = "python-dotenv" },
 ]
@@ -1019,6 +1020,7 @@ requires-dist = [
     { name = "langchain-google-genai", specifier = ">=4.2.2" },
     { name = "langchain-groq", specifier = ">=1.1.2" },
     { name = "langgraph", specifier = ">=1.2.0" },
+    { name = "langsmith", specifier = ">=0.8.5" },
     { name = "notebook", specifier = ">=7.5.6" },
     { name = "python-dotenv", specifier = ">=1.2.2" },
 ]
